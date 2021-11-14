@@ -1,0 +1,17 @@
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceFutureStub.class
+com\andi\grpcclient\pingpong\PingPongMessage.class
+com\andi\grpcclient\pingpong\PingPongMessageOrBuilder.class
+com\andi\grpcclient\pingpong\PingPongMessage$Builder.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$1.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$2.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceMethodDescriptorSupplier.class
+com\andi\grpcclient\pingpong\PingPong.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceStub.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceBaseDescriptorSupplier.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceImplBase.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceFileDescriptorSupplier.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$3.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$MethodHandlers.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc$PingPongServiceBlockingStub.class
+com\andi\grpcclient\pingpong\PingPongMessage$1.class
+com\andi\grpcclient\pingpong\PingPongServiceGrpc.class
